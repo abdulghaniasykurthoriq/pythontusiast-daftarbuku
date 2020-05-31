@@ -13,3 +13,6 @@ saya mencoba memoush ke github
 #nambah lagi apa ya
 coba commit lagi lewat pycharm
 COBA AH
+
+# SAYA MEMBUAT PERUBAHAN LEWAT GITHUB
+saya akan menpull nanti lewat pycharm agar data up to date dengan github
