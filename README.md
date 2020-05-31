@@ -9,3 +9,6 @@ saya merubah isi filenya lewat notepad
 saya mencoba mennsave
 saya mencoba men commit lewt pycharm
 saya mencoba memoush ke github
+
+#nambah lagi apa ya
+coba commit lagi lewat pycharm
